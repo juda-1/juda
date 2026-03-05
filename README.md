@@ -10,8 +10,8 @@ Passionate about building modern web applications and learning new technologies 
 ### 👨‍💻 About Me
 
 - 💻 I'm a **Web Developer**
-- 🌱 Currently learning **Advanced JavaScript & Backend**
-- 🚀 Interested in **Full Stack Development**
+- 🌱 Currently learning **Advanced JavaScript & Backend Development**
+- 🚀 I enjoy building **modern websites and web apps**
 - 📫 Reach me at: **ahm548152@gmail.com**
 
 ---
@@ -28,31 +28,26 @@ Passionate about building modern web applications and learning new technologies 
 
 ### 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=juda-1&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=juda-1&theme=tokyonight)
 
 ---
 
 ### 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juda-1&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1)
+![](https://github-profile-trophy.vercel.app/?username=juda-1&theme=tokyonight&no-frame=true&row=1)
 
----
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/juda-1/juda-1/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🌐 Connect With Me
@@ -63,7 +58,7 @@ Passionate about building modern web applications and learning new technologies 
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="[https://linkedin.com/in/ahmed-juda](https://www.linkedin.com/in/ahmed-juda-50127638b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
+<a href="https://www.linkedin.com/in/ahmed-juda-50127638b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
