@@ -64,7 +64,7 @@ Passionate about building modern web applications and learning new technologies 
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://linkedin.com/in/ahmed-juda">
+<a href="[https://linkedin.com/in/ahmed-juda](https://www.linkedin.com/in/ahmed-juda-50127638b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
