@@ -52,8 +52,7 @@ Passionate about building modern web applications and learning new technologies 
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/juda-1/juda-1/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🌐 Connect With Me
